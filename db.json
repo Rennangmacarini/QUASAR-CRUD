@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Entenda Quasar Framework",
+      "content": "&nbsp;O Quasar Framework é um framework de desenvolvimento de aplicativos de código aberto baseado no vue.js. Ele fornece uma abordagem de design de Material UI para o desenvolvimento de aplicativos móveis, web e desktop. O Quasar Framework é conhecido por sua flexibilidade e capacidade de criar aplicativos multiplataforma usando uma base de código compartilhada.",
+      "author": "Rennan macarini",
+      "id": 1
+    },
+    {
+      "title": "Como instalar o Quasar ",
+      "content": "<pre class=\"doc-code doc-code--prerendered language-bash\" style=\"font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; font-size: 14px; margin-top: 0px; margin-bottom: 22px; position: relative; line-height: 1.5em; tab-size: 2; text-wrap: nowrap; word-break: normal; overflow-wrap: normal; hyphens: none; overflow: auto; padding: 16px; border-radius: 4px; border-width: 1px 4px; border-style: solid; color: rgb(248, 248, 242); background-color: rgb(0, 36, 51); border-color: rgb(0, 90, 128);\">$ <span class=\"token function\" style=\"color: gold;\">yarn</span> global <span class=\"token function\" style=\"color: gold;\">add</span> @quasar/cli\n$ <span class=\"token function\" style=\"color: gold;\">yarn</span> create quasar\n\n<span class=\"token comment\" style=\"color: rgb(212, 208, 171);\"># or:</span>\n\n$ <span class=\"token function\" style=\"color: gold;\">npm</span> i <span class=\"token parameter variable\" style=\"color: rgb(0, 224, 224);\">-g</span> @quasar/cli\n$ <span class=\"token function\" style=\"color: gold;\">npm</span> init quasar\n\n<span class=\"token comment\" style=\"color: rgb(212, 208, 171);\"># or:</span>\n\n$ <span class=\"token function\" style=\"color: gold;\">pnpm</span> <span class=\"token function\" style=\"color: gold;\">add</span> <span class=\"token parameter variable\" style=\"color: rgb(0, 224, 224);\">-g</span> @quasar/cli <span class=\"token comment\" style=\"color: rgb(212, 208, 171);\"># experimental support</span>\n$ <span class=\"token function\" style=\"color: gold;\">pnpm</span> create quasar <span class=\"token comment\" style=\"color: rgb(212, 208, 171);\"># experimental support</span></pre>",
+      "author": "Rennan Macarini",
+      "id": 2
+    },
+    {
+      "title": "Entenda o vue3",
+      "content": "Lançado em setembro de 2020, o Vue 3 tras várias melhorias e recursos importantes em relação á versão anterior.<br><br>Composição: O vu3 introduz a Composição API, que é uma forma nova de forma de organizar a lógia dos componentes.<div><br></div><div>Reatividade otimizada: O vue3 possui um sistema de reatividade mais eficiente e preciso. Ele utiliza um mecanismo chamado \"Proxy\" para rastrear as dependências e realizar atualizações de forma mais inteligente, o que resulta em um desempenho aprimorado.</div><div><br></div><div>Renderização rápida: O vue3 utiliza um novo algoritmo de renderização chamado \"Fragmento Virtual\" virtual DOM para melhorar a eficiência na renderização dos componentes.<br><br>Tamanho reduzido: O vue3 tem um tamanho de pacote menor em comparação com o vue2.<br><br>Suporte a TypeScript aprimorando o vue3 e oferecendo um suporte com ajuda de tipagem estática e autocompletar<br><br>Maior escabilidade: O vue3 é projetado para lidar com aplicativos de grande escala com mais facilidade, oferecendo melhor controle sobre o estado compartilhado e uma arquitetura mais flexível.</div>",
+      "author": "Rennan Macarini",
+      "id": 3
+    },
+    {
+      "title": "Utilizado axios no projeto crud",
+      "content": "<b><span style=\"color: rgb(32, 33, 36); font-family: &quot;Google Sans&quot;, arial, sans-serif; font-size: 20px;\">O Axios é um biblioteca que permite uma integração do seu projeto para qualquer serviçõ de API disponível</span><span style=\"color: rgb(32, 33, 36); font-family: &quot;Google Sans&quot;, arial, sans-serif; font-size: 20px;\">. Ele é uma biblioteca leve e também uma alternativa para quem usa o fetch api.<br><br>Utilizando o métodos HTTP para criação do crud<br>POST, GET, PUT , DELETE.</span></b>",
+      "author": "Rennan",
+      "id": 4
+    }
+  ]
+}
