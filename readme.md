@@ -1,9 +1,9 @@
-# :movie_camera: Rocketmovies Frontend
+# :movie_camera: QUASAR CRUD
 
 Esse projeto é a parte visual de uma aplicação para guardar resumos, criar, editar e deletar resumos de anotação.
 
 <h1 align="center">
-    <img src="./src/assets/capa.PNG" alt="Capa do projeto">
+    <img src="/quasar-crud/src/assets/capa.PNG" alt="Capa do projeto">
 </h1>
 
 
