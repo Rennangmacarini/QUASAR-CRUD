@@ -1,4 +1,4 @@
-# :movie_camera: QUASAR CRUD
+# :snowflake: QUASAR CRUD
 
 Esse projeto é a parte visual de uma aplicação para guardar resumos, criar, editar e deletar resumos de anotação.
 
